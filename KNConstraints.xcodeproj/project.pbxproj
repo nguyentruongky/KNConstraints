@@ -13,6 +13,7 @@
 		2681DD74234AEF4A00562499 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2681DD72234AEF4A00562499 /* Main.storyboard */; };
 		2681DD76234AEF4B00562499 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2681DD75234AEF4B00562499 /* Assets.xcassets */; };
 		2681DD79234AEF4B00562499 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2681DD77234AEF4B00562499 /* LaunchScreen.storyboard */; };
+		2681DD81234AEF6200562499 /* KNConstraints.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2681DD80234AEF6200562499 /* KNConstraints.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2681DD75234AEF4B00562499 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2681DD78234AEF4B00562499 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2681DD7A234AEF4B00562499 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2681DD80234AEF6200562499 /* KNConstraints.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KNConstraints.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				2681DD6C234AEF4A00562499 /* AppDelegate.swift */,
+				2681DD80234AEF6200562499 /* KNConstraints.swift */,
 				2681DD6E234AEF4A00562499 /* SceneDelegate.swift */,
 				2681DD70234AEF4A00562499 /* ViewController.swift */,
 				2681DD72234AEF4A00562499 /* Main.storyboard */,
@@ -141,6 +144,7 @@
 				2681DD71234AEF4A00562499 /* ViewController.swift in Sources */,
 				2681DD6D234AEF4A00562499 /* AppDelegate.swift in Sources */,
 				2681DD6F234AEF4A00562499 /* SceneDelegate.swift in Sources */,
+				2681DD81234AEF6200562499 /* KNConstraints.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
